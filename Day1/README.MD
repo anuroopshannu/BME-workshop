@@ -1,9 +1,9 @@
-**Internet of Things Biomedical Workshop**
+# Internet of Things Biomedical Workshop
 
-**Python Basics**
+## Python Basics
 You can use this link for a hands on session of [Python Basics](https://github.com/anuroopshannu/python)
 
-**Flashing MicroPython on NodeMCU**
+## Flashing MicroPython on NodeMCU
 Download the MicroPython firmware .bin file in this folder. To load this firmware onto your device, you will have to:
 1. Put your device in boot-loader mode
 2. Copy across the firmware

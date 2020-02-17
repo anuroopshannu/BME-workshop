@@ -1,6 +1,6 @@
-**Internet of Things Biomedical Workshop**
+# Internet of Things Biomedical Workshop
 
-**Installing PubNub**
+## Installing PubNub
 You can install PubNub using the command:
 
 ```
